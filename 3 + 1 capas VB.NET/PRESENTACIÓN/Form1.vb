@@ -4,7 +4,8 @@
         Dim numerito As Integer = 12
         Dim otroNumerito As Integer = 15
         MsgBox(numerito + otroNumerito)
-
+        'dsvadv
+        'avavavad
 
     End Sub
 End Class
