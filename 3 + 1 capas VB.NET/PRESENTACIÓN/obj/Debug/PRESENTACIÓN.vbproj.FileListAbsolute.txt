@@ -1,0 +1,12 @@
+C:\Users\Alumno Ceibal\source\repos\pruebasUTU\3 + 1 capas VB.NET\PRESENTACIÓN\bin\Debug\PRESENTACIÓN.exe.config
+C:\Users\Alumno Ceibal\source\repos\pruebasUTU\3 + 1 capas VB.NET\PRESENTACIÓN\bin\Debug\PRESENTACIÓN.exe
+C:\Users\Alumno Ceibal\source\repos\pruebasUTU\3 + 1 capas VB.NET\PRESENTACIÓN\bin\Debug\PRESENTACIÓN.pdb
+C:\Users\Alumno Ceibal\source\repos\pruebasUTU\3 + 1 capas VB.NET\PRESENTACIÓN\bin\Debug\PRESENTACIÓN.xml
+C:\Users\Alumno Ceibal\source\repos\pruebasUTU\3 + 1 capas VB.NET\PRESENTACIÓN\obj\Debug\PRESENTACIÓN.vbprojAssemblyReference.cache
+C:\Users\Alumno Ceibal\source\repos\pruebasUTU\3 + 1 capas VB.NET\PRESENTACIÓN\obj\Debug\PRESENTACIÓN.Form1.resources
+C:\Users\Alumno Ceibal\source\repos\pruebasUTU\3 + 1 capas VB.NET\PRESENTACIÓN\obj\Debug\PRESENTACIÓN.Resources.resources
+C:\Users\Alumno Ceibal\source\repos\pruebasUTU\3 + 1 capas VB.NET\PRESENTACIÓN\obj\Debug\PRESENTACIÓN.vbproj.GenerateResource.cache
+C:\Users\Alumno Ceibal\source\repos\pruebasUTU\3 + 1 capas VB.NET\PRESENTACIÓN\obj\Debug\PRESENTACIÓN.vbproj.CoreCompileInputs.cache
+C:\Users\Alumno Ceibal\source\repos\pruebasUTU\3 + 1 capas VB.NET\PRESENTACIÓN\obj\Debug\PRESENTACIÓN.exe
+C:\Users\Alumno Ceibal\source\repos\pruebasUTU\3 + 1 capas VB.NET\PRESENTACIÓN\obj\Debug\PRESENTACIÓN.xml
+C:\Users\Alumno Ceibal\source\repos\pruebasUTU\3 + 1 capas VB.NET\PRESENTACIÓN\obj\Debug\PRESENTACIÓN.pdb
